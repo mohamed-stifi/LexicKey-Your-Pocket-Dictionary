@@ -1,4 +1,4 @@
 ﻿beautifulsoup4==4.12.2
 googletrans==3.0.0
 requests==2.31.0
-streamlit==1.28.2
+streamlit==1
