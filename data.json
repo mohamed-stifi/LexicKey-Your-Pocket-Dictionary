@@ -1,0 +1,1136 @@
+{
+    "Letters": {
+        "A": {
+            "Words": [
+                {
+                    "word": "Apple",
+                    "phonetic": "ˈæp.əl",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apple-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+                        "To become apple-like."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Astronaut",
+                    "phonetic": "ˈæstɹəˌnɒt",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astronaut-ca.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A member of the crew of a spaceship or other spacecraft that travels beyond Earth's atmosphere, or someone trained to serve that purpose."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "B": {
+            "Words": [
+                {
+                    "word": "Bicycle",
+                    "phonetic": "ˈbaɪsɪkl̩",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bicycle-au.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.",
+                        "To travel or exercise using a bicycle."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Balloon",
+                    "phonetic": "bəˈluːn",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "noun"
+                    ],
+                    "definitions": [
+                        "An inflatable buoyant object, often (but not necessarily) round and flexible.",
+                        "To increase or expand rapidly.",
+                        "An unusually large payment due at the end of the term of a loan agreement."
+                    ],
+                    "examples": [
+                        "",
+                        "His stomach ballooned from eating such a large meal.",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        "انتفخت معدته من تناول هذه الوجبة الكبيرة.",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "C": {
+            "Words": [
+                {
+                    "word": "Chocolate",
+                    "phonetic": "ˈt͡ʃɔk(ə)lət",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/chocolate-au.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "A food made from ground roasted cocoa beans.",
+                        "(chiefly in the past participle) To add chocolate to; to cover (food) in chocolate.",
+                        "Made of or containing chocolate."
+                    ],
+                    "examples": [
+                        "Chocolate is a very popular treat.",
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "الشوكولاتة علاج شائع جدًا.",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Carousel",
+                    "phonetic": "ˌkærəˈsɛl",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A merry-go-round (type of ride on rotating platform)."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "D": {
+            "Words": [
+                {
+                    "word": "Dragon",
+                    "phonetic": "ˈdɹæɡən",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/dragon-au.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A legendary serpentine or reptilian creature."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Diamond",
+                    "phonetic": "ˈdaɪ(ə)mənd",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/diamond-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "A glimmering glass-like mineral that is an allotrope of carbon in which each atom is surrounded by four others in the form of a tetrahedron.",
+                        "To adorn with or as if with diamonds",
+                        "Made of, or containing diamond, a diamond or diamonds."
+                    ],
+                    "examples": [
+                        "The saw is coated with diamond.",
+                        "",
+                        "He gave her diamond earrings."
+                    ],
+                    "translations": [
+                        "المنشار مطلي بالماس.",
+                        "",
+                        "أعطاها الأقراط الماسية."
+                    ]
+                }
+            ]
+        },
+        "E": {
+            "Words": [
+                {
+                    "word": "Elephant",
+                    "phonetic": "ˈɛləfənt",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/elephant-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A mammal of the order Proboscidea, having a trunk, and two large ivory tusks jutting from the upper jaw.",
+                        "A large size of paper, measuring 23 by 28 inches, or sometimes 22 by 30, or (double elephant paper) 26 by 40 inches."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Eclipse",
+                    "phonetic": "iˈklɪps",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/eclipse-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "An alignment of astronomical objects whereby one object comes between the observer (or notional observer) and another object, thus obscuring the latter.",
+                        "Of astronomical bodies, to cause an eclipse."
+                    ],
+                    "examples": [
+                        "",
+                        "The Moon eclipsed the Sun."
+                    ],
+                    "translations": [
+                        "",
+                        "خسف القمر الشمس."
+                    ]
+                }
+            ]
+        },
+        "F": {
+            "Words": [
+                {
+                    "word": "Firefly",
+                    "phonetic": "",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Any beetle of the family Lampyridae, which exhibit bioluminescence during twilight."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Fountain",
+                    "phonetic": "[ˈfaʊn.ʔn̩]",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fountain-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A natural source of water; a spring.",
+                        "To flow or gush as if from a fountain."
+                    ],
+                    "examples": [
+                        "",
+                        "Lava fountained from the volcano."
+                    ],
+                    "translations": [
+                        "",
+                        "تنبع الحمم البركانية من البركان."
+                    ]
+                }
+            ]
+        },
+        "G": {
+            "Words": [
+                {
+                    "word": "Galaxy",
+                    "phonetic": "ˈɡaləksi",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "The Milky Way; the apparent band of concentrated stars which appears in the night sky over earth."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Guitar",
+                    "phonetic": "ɡɪˈtɑː(ɹ)",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/guitar-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick).",
+                        "To play the guitar."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "H": {
+            "Words": [
+                {
+                    "word": "Hammock",
+                    "phonetic": "ˈhæmək",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hammock-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A swinging couch or bed, usually made of netting or canvas about six feet wide, suspended by clews or cords at the ends.",
+                        "To lie in a hammock."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Hurricane",
+                    "phonetic": "ˈhʌɹɪkən",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/hurricane-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A severe tropical cyclone in the North Atlantic Ocean, Caribbean Sea, Gulf of Mexico, or in the eastern North Pacific off the west coast of Mexico, with winds of 119 km/h (74 miles per hour) or greater accompanied by rain, lightning, and thunder that sometimes moves into temperate latitudes."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "I": {
+            "Words": [
+                {
+                    "word": "Iceberg",
+                    "phonetic": "",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/iceberg-au.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A huge mass of ocean-floating ice which has broken off a glacier or ice shelf"
+                    ],
+                    "examples": [
+                        "The Titanic hit an iceberg and sank."
+                    ],
+                    "translations": [
+                        "اصطدمت سفينة تيتانيك بجبل جليدي وغرقت."
+                    ]
+                },
+                {
+                    "word": "Illusion",
+                    "phonetic": "ɪˈl(j)uːʒ(ə)n",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Anything that seems to be something that it is not."
+                    ],
+                    "examples": [
+                        "Using artificial additives, scientists can create the illusion of fruit flavours in food."
+                    ],
+                    "translations": [
+                        "باستخدام المضافات الاصطناعية، يمكن للعلماء خلق وهم نكهات الفاكهة في الطعام."
+                    ]
+                }
+            ]
+        },
+        "J": {
+            "Words": [
+                {
+                    "word": "Jellyfish",
+                    "phonetic": "ˈdʒɛliˌfɪʃ",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/jellyfish-us.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "An almost transparent aquatic animal; any one of the acalephs, especially one of the larger species, having a jellylike appearance."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Jigsaw",
+                    "phonetic": "",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A saw with fine teeth and a narrow blade which can cut curves in wood or metal.",
+                        "To cut something using a jigsaw."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "K": {
+            "Words": [
+                {
+                    "word": "Kaleidoscope",
+                    "phonetic": "kəˈlaɪdəˌskoʊp",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/kaleidoscope-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A tube of mirrors containing loose coloured beads etc. that is rotated to produce a succession of symmetrical designs.",
+                        "To move in shifting patterns."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Keyboard",
+                    "phonetic": "ˈkiːbɔːd",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "(etc.) A set of keys used to operate a typewriter, computer etc.",
+                        "To type on a computer keyboard."
+                    ],
+                    "examples": [
+                        "",
+                        "Keyboarding is the part of this job I hate the most."
+                    ],
+                    "translations": [
+                        "",
+                        "لوحة المفاتيح هي الجزء الذي أكرهه أكثر من هذا العمل."
+                    ]
+                }
+            ]
+        },
+        "L": {
+            "Words": [
+                {
+                    "word": "Lighthouse",
+                    "phonetic": "ˈlaɪthaʊs",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lighthouse-us.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A tower or other structure exhibiting a light or lights to warn or guide sailors."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Lightning",
+                    "phonetic": "ˈlaɪt.nɪŋ",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/lightning-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "A flash of light produced by short-duration, high-voltage discharge of electricity within a cloud, between clouds, or between a cloud and the earth.",
+                        "To produce lightning.",
+                        "Extremely fast or sudden; moving (as if) at the speed of lightning."
+                    ],
+                    "examples": [
+                        "Although we did not see the lightning, we did hear the thunder.",
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "ورغم أننا لم نشاهد البرق، إلا أننا سمعنا صوت الرعد.",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "M": {
+            "Words": [
+                {
+                    "word": "Mushroom",
+                    "phonetic": "ˈmʌʃˌɹuːm",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "Any of the fleshy fruiting bodies of fungi typically produced above ground on soil or on their food sources (such as decaying wood).",
+                        "To grow quickly to a large size.",
+                        "Having characteristics like those of a mushroom, for example in shape or appearance, speed of growth, or texture."
+                    ],
+                    "examples": [
+                        "Some mushrooms are edible and taste good, while others are poisonous and taste foul.",
+                        "The town’s population mushroomed from 10,000 to 110,000 in five years.",
+                        "mushroom cloud"
+                    ],
+                    "translations": [
+                        "بعض أنواع الفطر صالحة للأكل وطعمها طيب، بينما بعضها الآخر سام وطعمها كريه.",
+                        "ارتفع عدد سكان المدينة من 10.000 إلى 110.000 نسمة في خمس سنوات.",
+                        "سحابة فطر"
+                    ]
+                },
+                {
+                    "word": "Mountain",
+                    "phonetic": "ˈmaʊntɪn",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/mountain-uk.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit."
+                    ],
+                    "examples": [
+                        "We spent the weekend hiking in the mountains."
+                    ],
+                    "translations": [
+                        "لقد أمضينا عطلة نهاية الأسبوع في المشي لمسافات طويلة في الجبال."
+                    ]
+                }
+            ]
+        },
+        "N": {
+            "Words": [
+                {
+                    "word": "Nebula",
+                    "phonetic": "ˈnɛbjʊlə",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/nebula-us.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A cloud in outer space consisting of gas or dust (e.g. a cloud formed after a star explodes)."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Nomad",
+                    "phonetic": "ˈnəʊmæd",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "adjective",
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A member of a society or class who herd animals from pasture to pasture with no fixed home.",
+                        "Of or relating to nomads, whether",
+                        "One who wanders, who travels aimlessly."
+                    ],
+                    "examples": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "O": {
+            "Words": [
+                {
+                    "word": "Octopus",
+                    "phonetic": "ˈɒk.tə.pəs",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "Any of several marine molluscs of the family Octopodidae, having no internal or external protective shell or bone (unlike the nautilus, squid and cuttlefish) and eight arms each covered with suckers.",
+                        "To put (or attempt to put) one's fingers, hands or arms in many things or places at roughly the same time."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Oasis",
+                    "phonetic": "əʊˈeɪsəs",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A spring of fresh water, surrounded by a fertile region of vegetation, in a desert."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "P": {
+            "Words": [
+                {
+                    "word": "Paradox",
+                    "phonetic": "ˈpaɹədɒks",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "An apparently self-contradictory statement, which can only be true if it is false, and vice versa."
+                    ],
+                    "examples": [
+                        "\"This sentence is false\" is a paradox."
+                    ],
+                    "translations": [
+                        "\"هذه الجملة خاطئة\" هي مفارقة."
+                    ]
+                },
+                {
+                    "word": "Pegasus",
+                    "phonetic": "",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        ""
+                    ],
+                    "definitions": [
+                        ""
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "Q": {
+            "Words": [
+                {
+                    "word": "Quasar",
+                    "phonetic": "ˈkweɪ.zɑː",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "An extragalactic object, starlike in appearance, that is among the most luminous and (putatively) the most distant objects in the universe."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Quicksand",
+                    "phonetic": "",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "Wet sand that things readily sink in, often found near rivers or coasts"
+                    ],
+                    "examples": [
+                        "My feet were firmly lodged in the quicksand, and the more I struggled the more I sank into it."
+                    ],
+                    "translations": [
+                        "كانت قدمي مغروسة بقوة في الرمال المتحركة، وكلما كافحت أكثر كلما غرقت فيها."
+                    ]
+                }
+            ]
+        },
+        "R": {
+            "Words": [
+                {
+                    "word": "Rainbow",
+                    "phonetic": "ˈɹeɪnbəʊ",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "A multicoloured arch in the sky, produced by prismatic refraction of light within droplets of rain in the air.",
+                        "To brighten with, or as with, a rainbow; to pattern with the colours of the rainbow.",
+                        "Multicolored."
+                    ],
+                    "examples": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Robot",
+                    "phonetic": "ˈɹoʊbət",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/robot-au.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A machine built to carry out some complex task or group of tasks by physically moving, especially one which can be programmed."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "S": {
+            "Words": [
+                {
+                    "word": "Sushi",
+                    "phonetic": "ˈsuʃi",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A Japanese dish made of small portions of sticky white rice flavored with vinegar, usually wrapped in seaweed and filled or topped with fish, vegetables or meat."
+                    ],
+                    "examples": [
+                        "For the vegetarians, she served cucumber sushi."
+                    ],
+                    "translations": [
+                        "بالنسبة للنباتيين، قدمت سوشي الخيار."
+                    ]
+                },
+                {
+                    "word": "Serenade",
+                    "phonetic": "ˌsɛɹəˈneɪd",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A love song that is sung directly to one's love interest, especially one performed below the window of a loved one in the evening.",
+                        "To sing or play a serenade for (someone)."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "T": {
+            "Words": [
+                {
+                    "word": "Telescope",
+                    "phonetic": "ˈtɛlɪskəʊp",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A monocular optical instrument that magnifies distant objects, especially in astronomy.",
+                        "To extend or contract in the manner of a telescope."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Tornado",
+                    "phonetic": "tɔː(ɹ)ˈneɪ.dəʊ",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/tornado-us.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A violent windstorm characterized by a mobile, twisting, funnel-shaped cloud."
+                    ],
+                    "examples": [
+                        "A tornado is a rotating column of air."
+                    ],
+                    "translations": [
+                        "الإعصار هو عمود دوار من الهواء."
+                    ]
+                }
+            ]
+        },
+        "U": {
+            "Words": [
+                {
+                    "word": "Umbrella",
+                    "phonetic": "ʌmˈbɹɛlə",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "Cloth-covered frame used for protection against rain or sun.",
+                        "To cover or protect, as if by an umbrella."
+                    ],
+                    "examples": [
+                        "Quick, grab that umbrella before you get rained on!",
+                        ""
+                    ],
+                    "translations": [
+                        "بسرعة، أمسك تلك المظلة قبل أن تمطر!",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Unicorn",
+                    "phonetic": "",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/unicorn-au.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A mythical beast resembling a horse or deer with a single, straight, spiraled horn projecting from its forehead.",
+                        "(sexual slang) To participate in a sexual threesome as a bisexual addition to an established heterosexual couple."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "V": {
+            "Words": [
+                {
+                    "word": "Volcano",
+                    "phonetic": "vɒlˈkeɪnəʊ",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A vent or fissure on the surface of a planet (usually in a mountainous form) with a magma chamber attached to the mantle of a planet or moon, periodically erupting forth lava and volcanic gases onto the surface."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Velvet",
+                    "phonetic": "ˈvɛlvɪt",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb",
+                        "adjective"
+                    ],
+                    "definitions": [
+                        "A closely woven fabric (originally of silk, now also of cotton or man-made fibres) with a thick short pile on one side.",
+                        "To cover with velvet or with a covering of a similar texture.",
+                        "Made of velvet."
+                    ],
+                    "examples": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "W": {
+            "Words": [
+                {
+                    "word": "Waterfall",
+                    "phonetic": "ˈwɔːtəfɔːl",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A flow of water over the edge of a cliff.",
+                        "To fall like a waterfall."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Whisper",
+                    "phonetic": "ˈ(h)wɪspə",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "The act of speaking in a quiet voice, especially, without vibration of the vocal cords.",
+                        "To speak softly, or under the breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration in the larynx which gives sonorous, or vocal, sound."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "X": {
+            "Words": [
+                {
+                    "word": "Xenon",
+                    "phonetic": "zenɔn",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "The chemical element (symbol Xe) with an atomic number of 54. It is a colorless, odorless, unreactive noble gas, used notably in camera flash technology."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                },
+                {
+                    "word": "Xylophone",
+                    "phonetic": "ˈzaɪləˌfoʊn",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/xylophone-us.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "Any musical instrument (percussion idiophone) made of wooden slats graduated so as to make the sounds of the scale when struck with a small drumstick-like mallet; the standard Western concert xylophone or one of its derivatives.",
+                        "To play a xylophone or to play something else as though it was a xylophone."
+                    ],
+                    "examples": [
+                        "All I know how to play on my xylophone is \"Mary Had a Little Lamb\". Would you like to hear it?",
+                        ""
+                    ],
+                    "translations": [
+                        "كل ما أعرفه كيف أعزف على الإكسيليفون هو أغنية \"Mary had a Little Lamb\". تريد أن تسمع ذلك؟",
+                        ""
+                    ]
+                }
+            ]
+        },
+        "Y": {
+            "Words": [
+                {
+                    "word": "Yarn",
+                    "phonetic": "",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/yarn-au.mp3",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A twisted strand of fiber used for knitting or weaving.",
+                        "To tell a story or stories."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Yogurt",
+                    "phonetic": "ˈjəʉɡət",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "A milk-based product stiffened by a bacterium-aided curdling process, and sometimes mixed with fruit or other flavoring."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "Z": {
+            "Words": [
+                {
+                    "word": "Zephyr",
+                    "phonetic": "zɛfə(ɹ)",
+                    "audio": "",
+                    "partOfSpeechs": [
+                        "noun",
+                        "verb"
+                    ],
+                    "definitions": [
+                        "A light wind from the west.",
+                        "To blow or move like a zephyr, or light breeze."
+                    ],
+                    "examples": [
+                        "",
+                        ""
+                    ],
+                    "translations": [
+                        "",
+                        ""
+                    ]
+                },
+                {
+                    "word": "Zenith",
+                    "phonetic": "ˈzɛn.ɪθ",
+                    "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/zenith-au.mp3",
+                    "partOfSpeechs": [
+                        "noun"
+                    ],
+                    "definitions": [
+                        "The point in the sky vertically above a given position or observer; the point in the celestial sphere opposite the nadir."
+                    ],
+                    "examples": [
+                        ""
+                    ],
+                    "translations": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    }
+}
